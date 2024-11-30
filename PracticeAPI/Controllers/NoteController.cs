@@ -20,6 +20,7 @@ namespace PracticeAPI.Controllers
         public async Task<IActionResult> GetAll()
         {
 
+
             return Ok();
         }
     }

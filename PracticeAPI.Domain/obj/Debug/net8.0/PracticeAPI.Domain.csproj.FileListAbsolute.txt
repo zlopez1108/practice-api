@@ -9,3 +9,15 @@ C:\Users\mx\source\repos\PracticeAPI\PracticeAPI.Domain\obj\Debug\net8.0\Practic
 C:\Users\mx\source\repos\PracticeAPI\PracticeAPI.Domain\obj\Debug\net8.0\refint\PracticeAPI.Domain.dll
 C:\Users\mx\source\repos\PracticeAPI\PracticeAPI.Domain\obj\Debug\net8.0\PracticeAPI.Domain.pdb
 C:\Users\mx\source\repos\PracticeAPI\PracticeAPI.Domain\obj\Debug\net8.0\ref\PracticeAPI.Domain.dll
+C:\code\practice-api\PracticeAPI.Domain\bin\Debug\net8.0\PracticeAPI.Domain.deps.json
+C:\code\practice-api\PracticeAPI.Domain\bin\Debug\net8.0\PracticeAPI.Domain.dll
+C:\code\practice-api\PracticeAPI.Domain\bin\Debug\net8.0\PracticeAPI.Domain.pdb
+C:\code\practice-api\PracticeAPI.Domain\obj\Debug\net8.0\PracticeAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\practice-api\PracticeAPI.Domain\obj\Debug\net8.0\PracticeAPI.Domain.AssemblyInfoInputs.cache
+C:\code\practice-api\PracticeAPI.Domain\obj\Debug\net8.0\PracticeAPI.Domain.AssemblyInfo.cs
+C:\code\practice-api\PracticeAPI.Domain\obj\Debug\net8.0\PracticeAPI.Domain.csproj.CoreCompileInputs.cache
+C:\code\practice-api\PracticeAPI.Domain\obj\Debug\net8.0\PracticeAPI.Domain.sourcelink.json
+C:\code\practice-api\PracticeAPI.Domain\obj\Debug\net8.0\PracticeAPI.Domain.dll
+C:\code\practice-api\PracticeAPI.Domain\obj\Debug\net8.0\refint\PracticeAPI.Domain.dll
+C:\code\practice-api\PracticeAPI.Domain\obj\Debug\net8.0\PracticeAPI.Domain.pdb
+C:\code\practice-api\PracticeAPI.Domain\obj\Debug\net8.0\ref\PracticeAPI.Domain.dll

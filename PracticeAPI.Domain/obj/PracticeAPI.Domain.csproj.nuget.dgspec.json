@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mx\\source\\repos\\PracticeAPI\\PracticeAPI.Domain\\PracticeAPI.Domain.csproj": {}
+    "C:\\code\\practice-api\\PracticeAPI.Domain\\PracticeAPI.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mx\\source\\repos\\PracticeAPI\\PracticeAPI.Domain\\PracticeAPI.Domain.csproj": {
+    "C:\\code\\practice-api\\PracticeAPI.Domain\\PracticeAPI.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mx\\source\\repos\\PracticeAPI\\PracticeAPI.Domain\\PracticeAPI.Domain.csproj",
+        "projectUniqueName": "C:\\code\\practice-api\\PracticeAPI.Domain\\PracticeAPI.Domain.csproj",
         "projectName": "PracticeAPI.Domain",
-        "projectPath": "C:\\Users\\mx\\source\\repos\\PracticeAPI\\PracticeAPI.Domain\\PracticeAPI.Domain.csproj",
+        "projectPath": "C:\\code\\practice-api\\PracticeAPI.Domain\\PracticeAPI.Domain.csproj",
         "packagesPath": "C:\\Users\\mx\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mx\\source\\repos\\PracticeAPI\\PracticeAPI.Domain\\obj\\",
+        "outputPath": "C:\\code\\practice-api\\PracticeAPI.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
